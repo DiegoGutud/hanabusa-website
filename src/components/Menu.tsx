@@ -11,7 +11,7 @@ export default function Menu() {
       title: "Mochi tricolores",
       desc: "Un mochi de cada sabor.",
       price: "9.80€",
-      img: "../../assets/mochi_trio.png",
+      img: "/assets/mochi_trio.png",
       type: "sakura",
       category: "Mochis",
       delay: "0s"
@@ -21,7 +21,7 @@ export default function Menu() {
       title: "Mochi de fresa",
       desc: "Mochi relleno de anko y fresa natural.",
       price: "3.50€",
-      img: "../../assets/mochi_fresa.jpeg",
+      img: "/assets/mochi_fresa.jpeg",
       type: "sakura",
       category: "Mochis",
       delay: "0.1s"
@@ -31,7 +31,7 @@ export default function Menu() {
       title: "Mochi de castaña",
       desc: "Mochi relleno de anko y castaña en almíbar.",
       price: "3.50€",
-      img: "../../assets/mochi_castaña.jpeg",
+      img: "/assets/mochi_castaña.jpeg",
       type: "gold",
       category: "Mochis",
       delay: "0.2s"
@@ -41,7 +41,7 @@ export default function Menu() {
       title: "Mochi de matcha",
       desc: "Mochi relleno de anko, chocolate blanco con té verde, frambuesa y nueces.",
       price: "3.50€",
-      img: "../../assets/mochi_matcha.png",
+      img: "/assets/mochi_matcha.png",
       type: "matcha",
       category: "Mochis",
       delay: "0.3s"
@@ -51,7 +51,7 @@ export default function Menu() {
       title: "Mochi de chocolate",
       desc: "Pastel de arroz (mochi) relleno de 2 chocolates.",
       price: "3.50€",
-      img: "../../assets/mochi_chocolate.jpeg",
+      img: "/assets/mochi_chocolate.jpeg",
       type: "gold",
       category: "Mochis",
       delay: "0.4s"
@@ -61,7 +61,7 @@ export default function Menu() {
       title: "Mochi de frambuesa",
       desc: "Mochi helado relleno de frambuesas.",
       price: "3.50€",
-      img: "../../assets/mochi_ice_frambuesa.jpeg",
+      img: "/assets/mochi_ice_frambuesa.jpeg",
       type: "sakura",
       category: "Mochis helados",
       delay: "0.5s"
@@ -71,7 +71,7 @@ export default function Menu() {
       title: "Mochi de matcha",
       desc: "Mochi helado sabor a matcha.",
       price: "3.50€",
-      img: "../../assets/mochi_ice_matcha.jpg",
+      img: "/assets/mochi_ice_matcha.jpg",
       type: "matcha",
       category: "Mochis helados",
       delay: "0.6s"
@@ -81,7 +81,7 @@ export default function Menu() {
       title: "Mochi de tiramisu",
       desc: "Mochi helado sabor a tiramisu.",
       price: "3.50€",
-      img: "../../assets/mochi_ice_tiramisu.jpeg",
+      img: "/assets/mochi_ice_tiramisu.jpeg",
       type: "gold",
       category: "Mochis helados",
       delay: "0.7s"
@@ -91,7 +91,7 @@ export default function Menu() {
       title: "Yuzu cheesecake",
       desc: "Tarta de queso super esponjosa con un toque de Yuzu.",
       price: "8.50€",
-      img: "../../assets/yuzu_cake.jpg",
+      img: "/assets/yuzu_cake.jpg",
       type: "gold",
       category: "Pasteles",
       delay: "0.8s"
@@ -101,7 +101,7 @@ export default function Menu() {
       title: "Matcha roll",
       desc: "Rollo de bizcocho de 18 cm sabor matcha relleno de crema de mascarpone y judia roja.",
       price: "16.00€",
-      img: "../../assets/roll_matcha_cake.jpeg",
+      img: "/assets/roll_matcha_cake.jpeg",
       type: "matcha",
       category: "Pasteles",
       delay: "0.9s"
@@ -111,7 +111,7 @@ export default function Menu() {
       title: "Dorayaki original",
       desc: "Pancakes japos rellenos de azuki.",
       price: "2.80€",
-      img: "../../assets/dorayaki_original.jpeg",
+      img: "/assets/dorayaki_original.jpeg",
       type: "gold",
       category: "Dorayakis",
       delay: "1.0s"
@@ -121,7 +121,7 @@ export default function Menu() {
       title: "Dorayaki chocolate",
       desc: "Pancakes japos rellenos de crema de chocolate.",
       price: "2.80€",
-      img: "../../assets/dorayaki_nutella.jpg",
+      img: "/assets/dorayaki_nutella.jpg",
       type: "gold",
       category: "Dorayakis",
       delay: "1.1s"
@@ -131,7 +131,7 @@ export default function Menu() {
       title: "Flan de matcha",
       desc: "Flan de té verde con cubierta de gelatina y base de azuki.",
       price: "3.50€",
-      img: "../../assets/flan_matcha.png",
+      img: "/assets/flan_matcha.png",
       type: "matcha",
       category: "Otros",
       delay: "1.2s"
@@ -141,7 +141,7 @@ export default function Menu() {
       title: "Melonpan (10 unidades)",
       desc: "Brioche con cubierta de galleta y azúcar.",
       price: "28.00€",
-      img: "../../assets/melon_pan.jpeg",
+      img: "/assets/melon_pan.jpeg",
       type: "gold",
       category: "Otros",
       delay: "1.3s"

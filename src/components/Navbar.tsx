@@ -30,7 +30,7 @@ export default function Navbar() {
           transition={{ delay: 0.2 }}
           className="flex items-center gap-4"
         >
-          <img src="../../assets/hanabusa_logo.png" alt="Hanabusa Logo" className="h-10 w-auto" />
+          <img src="/assets/hanabusa_logo.png" alt="Hanabusa Logo" className="h-10 w-auto" />
           <div className="flex items-baseline gap-3">
             <h1 className="font-sans text-xl font-medium tracking-wide text-text-primary uppercase">Hanabusa</h1>
             <span className="h-3 w-[1px] bg-border-subtle hidden lg:block"></span>

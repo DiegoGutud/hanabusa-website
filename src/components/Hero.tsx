@@ -37,7 +37,7 @@ export default function Hero() {
         </div>
         <div className="md:col-span-1 lg:col-span-6 relative flex items-center justify-center lg:justify-end order-2 lg:order-2 mt-4 lg:mt-0">
           <div className="relative w-full max-w-sm lg:max-w-md aspect-[3/4] overflow-hidden rounded-bento shadow-xl bg-surface-alt animate-blur-in">
-            <img alt="Artisanal matcha layered cake close up" className="h-full w-full object-cover transition-transform duration-[2s] hover:scale-105 opacity-90" src="../assets/hero_cake.png" />
+            <img alt="Artisanal matcha layered cake close up" className="h-full w-full object-cover transition-transform duration-[2s] hover:scale-105 opacity-90" src="/assets/hero_cake.png" />
             <div className="absolute top-8 right-6 z-20 pointer-events-none mix-blend-difference text-white/80">
               <div className="vertical-text text-4xl font-jp font-light tracking-widest opacity-80">
                 和の心
