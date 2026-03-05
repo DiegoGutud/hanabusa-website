@@ -85,7 +85,7 @@ export default function Testimonials() {
                   <span className="material-symbols-outlined text-sm">star</span>
                   <span className="material-symbols-outlined text-sm">star</span>
                   <span className="material-symbols-outlined text-sm">star</span>
-                  <span className="material-symbols-outlined text-sm">star_half</span>
+                  <span className="material-symbols-outlined text-sm">star</span>
                 </div>
               </div>
             </div>
